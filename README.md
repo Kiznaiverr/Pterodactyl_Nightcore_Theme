@@ -8,7 +8,7 @@ bash <(curl https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_The
 ---
 Screenshots:
 ### Mainpage
-![Mainpage](https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_Theme/main/images/Serverliste.png "Mainpage")
+![Mainpage](https://raw.githubusercontent.com/Kiznaiverr/Pterodactyl_Nightcore_Theme/main/images/Serverliste.png "Mainpage")
 ### Login
 ![Login](https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_Theme/main/images/Login.png "Login")
 ### Files
